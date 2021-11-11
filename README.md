@@ -185,7 +185,7 @@ Then we declare threads and create them. We wait for them to complete before ter
 }
 ```
 
-### Result
+## Result
 ```
 Enter size of array:10 
 Now Enter the Array: 17 26 0 9 7 14 45 13 13 0
