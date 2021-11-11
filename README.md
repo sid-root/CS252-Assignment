@@ -10,7 +10,6 @@ First divide the array into two subarrays or 2 parts, each of which is then sort
 ### Sorting
 void* partoflist1(int arr[]){
     sleep(1);
-
     // bubble sort algorithm to sort an array
     for(int i=0;i<ps1;i++){
         for(int j=0;j<ps1-i-1;j++){
