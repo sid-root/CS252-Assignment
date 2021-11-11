@@ -184,3 +184,15 @@ Then we declare threads and create them. We wait for them to complete before ter
     return 0;
 }
 ```
+
+### Result
+```
+Enter size of array:10 
+Now Enter the Array: 17 26 0 9 7 14 45 13 13 0
+First array:- 17 26 0 9 7 
+Second array:- 14 45 13 13 0 
+Sorted Part 1 of the list :- 0 7 9 17 26 
+Sorted Part 2 of the list :- 0 13 13 14 45 
+Completely Sorted List :- 0 0 7 9 13 13 14 17 26 45
+```
+
