@@ -196,6 +196,9 @@ Sorted Part 2 of the list :- 0 13 13 14 45
 Completely Sorted List :- 0 0 7 9 13 13 14 17 26 45
 ```
 
+## Conclusion
+We enter the size of the array and the array itself. The array gets divided into 2 parts. Each part gets sorted independently using threads. The 2 sorted parts are then merged using a single thread to give us the final sorted full array. Hence we can conclude that the Code works properly.
+
 ## Credits
 [https://github.com/forestLoop/Learning-EI338](https://github.com/forestLoop/Learning-EI338)
 
